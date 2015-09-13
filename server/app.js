@@ -1,6 +1,6 @@
 var express = require('express');
-var db = require('./db');
-db.connection.connect();
+//var db = require('./db');
+//db.connection.connect();
 
 // Middleware
 var morgan = require('morgan');
